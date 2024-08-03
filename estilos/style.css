@@ -42,7 +42,7 @@ section#login{
 }
 
 section#login > div#imagem{
-    background:#5f2c82 url(../imagem/01.jpg) no-repeat ;
+    background:#5f2c82 url(../imagem/03.png) no-repeat ;
     height: 200px;
     background-size: cover;
     background-position: left bottom;

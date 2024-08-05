@@ -62,6 +62,9 @@ div#formulario > p{
     font-size: 0.8em;
 
 }
+div#formulario > h1{
+    font-size: 2em;
+}
 div#botao{
     margin: 15px 0px 20px 27px;
         

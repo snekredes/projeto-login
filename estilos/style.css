@@ -137,6 +137,8 @@ form > a.botao{
     color: #0e2e2d;
     padding-top: 10px;
     margin-top: 10px;
+  
+    
 }
 form a.botao:hover{
     background-color:  #50cac8 ;
@@ -144,4 +146,5 @@ form a.botao:hover{
 }
 form > a.botao > span {
     font-size: 1em;
+    margin-left: 10px;
 }
